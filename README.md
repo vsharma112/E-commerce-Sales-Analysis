@@ -35,7 +35,7 @@ This dashboard highlights important trends in sales and profitability across pro
 Dashboard Preview:
 ## 📊 E-commerce-sales-dashboard
 
-![e-commerce-sales-dashboard](assets/e-commerce-sales-dashboard.png)
+![Alt text](assets/e-commerce-sales-dashboard.png)
 
 
 Dashboard Review:
