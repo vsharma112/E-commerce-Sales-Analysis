@@ -32,5 +32,11 @@ This dashboard highlights important trends in sales and profitability across pro
 * Leverage seasonal sales trends to plan promotions, inventory, and staffing more effectively.
 * Consider discontinuing or redesigning products that consistently underperform in both sales and profit.
 
+Dashboard Preview:
+## 📊 Dashboard Preview
+
+![Investment Dashboard](assets/e-commerce-sales-dashboard.png)
+
+
 Dashboard Review:
 https://github.com/vsharma112/vsharma1112/blob/main/E-Commerce%20Sales%20Dashboard.png
